@@ -1,0 +1,18 @@
+@media screen and (max-width: 700px){
+    header {
+        width: 100vw;
+
+    }
+    nav .container ul{
+        display:list-item;
+    }
+    .container {
+        width: 80vw;
+        margin: 30px;
+        
+    }
+    footer{
+        width:600px;
+    }
+}
+
